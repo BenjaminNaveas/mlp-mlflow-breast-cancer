@@ -34,7 +34,7 @@ Se registraron múltiples ejecuciones evaluando distintos escenarios:
 ## 🚀 Ejecución en Colab
 Puedes revisar el código completo directamente en Google Colab haciendo clic en el siguiente enlace:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_CUADERNO_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/139meTHiK9bGWyHkl_pTFiElLK9gAx66U?usp=sharing)
 
 ---
 *Este proyecto fue desarrollado como parte de las evaluaciones formativas de la Unidad II de la asignatura Minería de Datos.*
